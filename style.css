@@ -1,0 +1,285 @@
+body {
+  margin: 0px;
+  font-family: sans-serif;
+  position: fixed;
+}
+img#logo {
+  position: fixed;
+  top: 27px;
+  left: 29px;
+}
+img#userphoto {
+  position: fixed;
+  top: 26px;
+  left: 1285px;
+}
+input {
+  width: 692px;
+  height: 46px;
+  position: fixed;
+  top: 20px;
+  left: 160px;
+  border: 1px solid #dfe1e5;
+  border-radius: 26px;
+  box-sizing: border-box;
+}
+input:focus {
+  outline: none;
+  font-size: 16px;
+  padding-left: 20px;
+  box-shadow: 0 0 6px #dcdcdd;
+}
+input:hover {
+  box-shadow: 0 0 6px #dcdcdd;
+}
+img#options {
+  position: fixed;
+  top: 28px;
+  left: 724px;
+}
+#dotscircle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  top: 25px;
+  left: 1235px;
+}
+#dotscircle:hover {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #e3e5e7;
+  position: fixed;
+  top: 25px;
+  left: 1235px;
+}
+li {
+  margin-top: -11px;
+  color: #5f6368;
+}
+ul {
+  font-size: 15px;
+}
+#dots1 {
+  top: 25px;
+  left: 1221px;
+  position: relative;
+  margin-bottom: 0px;
+}
+#dots2 {
+  top: -8px;
+  left: 1227px;
+  position: relative;
+  margin-bottom: 0px;
+}
+#dots3 {
+  position: relative;
+  top: -41px;
+  left: 1233px;
+  margin-bottom: 0px;
+}
+#all {
+  position: fixed;
+  top: 89px;
+  left: 167px;
+}
+#Images {
+  position: fixed;
+  top: 90px;
+  left: 475px;
+}
+#Videos {
+  position: fixed;
+  top: 90px;
+  left: 238px;
+}
+#News {
+  position: fixed;
+  top: 88px;
+  left: 322px;
+}
+#Maps {
+  position: fixed;
+  top: 87px;
+  left: 401px;
+}
+#More {
+  position: fixed;
+  top: 88px;
+  left: 560px;
+}
+#settings {
+  top: 92px;
+  left: 719px;
+}
+#tools {
+  top: 92px;
+  left: 790px;
+}
+#Safe {
+  top: 79px;
+  left: 1234px;
+}
+hr {
+  top: 10px;
+  border: 0.6px solid #ebebeb;
+  position: relative;
+  width: 1369px;
+}
+.toplinks {
+  position: fixed;
+  font-size: 12.7px;
+  text-decoration: none;
+  color: #5f6368;
+}
+#videos {
+  top: 93px;
+  left: 261px;
+}
+#news {
+  top: 93px;
+  left: 345px;
+}
+#maps {
+  top: 93px;
+  left: 423px;
+}
+#images {
+  top: 93px;
+  left: 500px;
+}
+#second {
+  font-size: 14px;
+  left: 180px;
+  top: 122px;
+}
+#shopify {
+  position: fixed;
+  font-size: 14px;
+  top: 160px;
+  left: 180px;
+}
+#ecommercelink,
+#githublink {
+  position: fixed;
+  top: 196px;
+  text-decoration: none;
+  color: #1a0dae;
+  font-size: 20px;
+  left: 178px;
+}
+#ecommercelink:hover {
+  top: 196px;
+  text-decoration: underline;
+  color: #1a0dae;
+  font-size: 20px;
+  left: 178px;
+}
+.gray {
+  color: #5f6368;
+  font-size: 14px;
+}
+#everything {
+  width: 600px;
+  position: fixed;
+  top: 210px;
+  left: 180px;
+  line-height: 23px;
+}
+#wix {
+  position: fixed;
+  top: 308px;
+  left: 180px;
+  font-size: 14px;
+}
+#para {
+  width: 600px;
+  position: fixed;
+  top: 360px;
+  left: 180px;
+  line-height: 23px;
+  font-size: 14px;
+}
+#wixlink {
+  position: fixed;
+  top: 345px;
+  text-decoration: none;
+  color: #1a0dae;
+  font-size: 20px;
+  left: 178px;
+}
+#wixlink:hover {
+  position: fixed;
+  top: 345px;
+  text-decoration: underline;
+  color: #1a0dae;
+  font-size: 20px;
+  left: 178px;
+}
+#people {
+  position: fixed;
+  top: 448px;
+  left: 164px;
+  width: 626px;
+  height: 143px;
+  border: 1px solid #dfe1e5;
+}
+#peoser {
+  font-weight: bold;
+  font-size: 14px;
+  color: #6e6e6e;
+  padding-left: 16px;
+  padding-top: 0px;
+}
+.for1 {
+  color: #1a0dae;
+  text-decoration: none;
+  display: block;
+  padding-left: 16px;
+  font-size: 14px;
+  margin-bottom: 9px;
+}
+.for1:hover,
+.for2:hover {
+  color: #1a0dae;
+  text-decoration: underline;
+  display: block;
+  padding-left: 16px;
+}
+.for2 {
+  color: #1a0dae;
+  text-decoration: none;
+  display: block;
+  padding-left: 16px;
+  font-size: 14px;
+  margin-bottom: 9px;
+}
+#for2id {
+  position: fixed;
+  top: 493px;
+  left: 355px;
+}
+div#secbox {
+  width: 600px;
+  height: 180px;
+  border: 0.6px solid #ebebeb;
+  position: fixed;
+  top: 600px;
+  padding-left: 20px;
+  padding-right: 20px;
+  left: 160px;
+  border-radius: 5px;
+}
+span {
+  font-weight: bold;
+}
+#githublink {
+  position: fixed;
+  top: 680px;
+  left: 190px;
+}
+#second {
+  font-size: 15px;
+}
